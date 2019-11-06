@@ -2,7 +2,7 @@
 
 Project was aimed to implement pairwaise sequence alignment, developed for *Bioinformatics*, Faculty of Mathematics and Information Science.
 
-## Contene:
+## Content:
 * `/src` - implementation of Needleman–Wunsch (global alignment) and Smith–Waterman (locacl alignment) algorithms
 * `/notebooks` - tests on two proteins and two genes (homologous)
 * `raport.md` - summary
